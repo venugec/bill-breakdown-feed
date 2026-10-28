@@ -7,7 +7,7 @@
     <description>What laws passed by Congress actually do, explained from the Congressional Research Service summaries, with no spin. Every claim traceable to the bill text. This podcast explains laws in plain language and is not legal, tax, or financial advice.</description>
     <language>en</language>
     <managingEditor>venugec@gmail.com (Venu Aluri)</managingEditor>
-    <itunes:author>Venu Aluri</itunes:author>
+    <itunes:author>Bill Breakdown</itunes:author>
     <itunes:owner>
       <itunes:name>Venu Aluri</itunes:name>
       <itunes:email>venugec@gmail.com</itunes:email>
@@ -15,7 +15,7 @@
     <itunes:category text="Government"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://venugec.github.io/bill-breakdown-feed/covers/show.jpg"/>
+    <itunes:image href="https://venugec.github.io/bill-breakdown-feed/covers/show-logo.jpg"/>
     <item>
       <title>Bill Breakdown: The Social Security Fairness Act</title>
       <description>Alex and Jordan explain how the Social Security Fairness Act repealed two rules that shrank benefits for retired teachers, firefighters, police officers, and other public workers.
