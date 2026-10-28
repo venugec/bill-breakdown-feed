@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bill Breakdown</title>
+    <link>https://venugec.github.io/bill-breakdown-feed/feed.xml</link>
+    <atom:link href="https://venugec.github.io/bill-breakdown-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>What laws passed by Congress actually do, explained from the Congressional Research Service summaries, with no spin. Every claim traceable to the bill text. This podcast explains laws in plain language and is not legal, tax, or financial advice.</description>
+    <language>en</language>
+    <managingEditor>venugec@gmail.com (Venu Aluri)</managingEditor>
+    <itunes:author>Venu Aluri</itunes:author>
+    <itunes:owner>
+      <itunes:name>Venu Aluri</itunes:name>
+      <itunes:email>venugec@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Government"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://venugec.github.io/bill-breakdown-feed/covers/show.jpg"/>
+    <item>
+      <title>Bill Breakdown: The Social Security Fairness Act</title>
+      <description>Alex and Jordan explain how the Social Security Fairness Act repealed two rules that shrank benefits for retired teachers, firefighters, police officers, and other public workers.</description>
+      <pubDate>Tue, 27 Oct 2026 18:39:02 +0000</pubDate>
+      <guid isPermaLink="true">https://muse.ai/podcasts/media/1220496047823149/a616bd34-6bf1-4a5f-badc-0a0a848862b9/ep-1ed6e486-f9dd-487e-be6d-e7fc3e2df557.mp3</guid>
+      <enclosure url="https://muse.ai/podcasts/media/1220496047823149/a616bd34-6bf1-4a5f-badc-0a0a848862b9/ep-1ed6e486-f9dd-487e-be6d-e7fc3e2df557.mp3" length="3761893" type="audio/mpeg"/>
+      <itunes:duration>470</itunes:duration>
+      <itunes:image href="https://venugec.github.io/bill-breakdown-feed/covers/ssfa.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Bill Breakdown: The GENIUS Act</title>
+      <description>Alex and Jordan explain the GENIUS Act, the first federal law for stablecoins, from who may issue them to the one-to-one reserve rules and when the law takes effect.</description>
+      <pubDate>Tue, 27 Oct 2026 18:38:25 +0000</pubDate>
+      <guid isPermaLink="true">https://muse.ai/podcasts/media/1220496047823149/a616bd34-6bf1-4a5f-badc-0a0a848862b9/ep-daaea144-f749-4b2a-a063-1cc22e101cdc.mp3</guid>
+      <enclosure url="https://muse.ai/podcasts/media/1220496047823149/a616bd34-6bf1-4a5f-badc-0a0a848862b9/ep-daaea144-f749-4b2a-a063-1cc22e101cdc.mp3" length="3716389" type="audio/mpeg"/>
+      <itunes:duration>464</itunes:duration>
+      <itunes:image href="https://venugec.github.io/bill-breakdown-feed/covers/genius.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Bill Breakdown: The One Big Beautiful Bill Act</title>
+      <description>Alex and Jordan explain what the One Big Beautiful Bill Act actually does, from the tax changes to Medicaid and food assistance, based on Congressional Research Service summaries and Congressional Budget Office estimates.</description>
+      <pubDate>Tue, 27 Oct 2026 18:23:09 +0000</pubDate>
+      <guid isPermaLink="true">https://muse.ai/podcasts/media/1220496047823149/a616bd34-6bf1-4a5f-badc-0a0a848862b9/ep-c4575a32-e5e0-4f3c-bad2-af8a26dd3c9f.mp3</guid>
+      <enclosure url="https://muse.ai/podcasts/media/1220496047823149/a616bd34-6bf1-4a5f-badc-0a0a848862b9/ep-c4575a32-e5e0-4f3c-bad2-af8a26dd3c9f.mp3" length="3970405" type="audio/mpeg"/>
+      <itunes:duration>496</itunes:duration>
+      <itunes:image href="https://venugec.github.io/bill-breakdown-feed/covers/obbba.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
