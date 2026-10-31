@@ -17,6 +17,19 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://venugec.github.io/bill-breakdown-feed/covers/show-logo.jpg"/>
     <item>
+      <title>Bill Breakdown: The TAKE IT DOWN Act</title>
+      <description>Alex and Jordan explain the TAKE IT DOWN Act, which makes publishing nonconsensual intimate images and digital forgeries a federal crime and requires covered platforms to remove reported images within forty-eight hours.
+
+Sources: Bill page (CRS summary): https://www.congress.gov/bill/119th-congress/senate-bill/146/all-info | Full law text (P.L. 119-12): https://www.congress.gov/119/plaws/publ12/PLAW-119publ12.pdf</description>
+      <pubDate>Sat, 31 Oct 2026 20:56:13 +0000</pubDate>
+      <guid isPermaLink="true">https://muse.ai/podcasts/media/1220496047823149/a616bd34-6bf1-4a5f-badc-0a0a848862b9/ep-7fa10a6b-abb7-4265-a4e7-eca0dccbddd6.mp3</guid>
+      <enclosure url="https://muse.ai/podcasts/media/1220496047823149/a616bd34-6bf1-4a5f-badc-0a0a848862b9/ep-7fa10a6b-abb7-4265-a4e7-eca0dccbddd6.mp3" length="4105765" type="audio/mpeg"/>
+      <itunes:duration>513</itunes:duration>
+      <itunes:image href="https://venugec.github.io/bill-breakdown-feed/covers/takedown.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>Bill Breakdown: The Social Security Fairness Act</title>
       <description>Alex and Jordan explain how the Social Security Fairness Act repealed two rules that shrank benefits for retired teachers, firefighters, police officers, and other public workers.
 
