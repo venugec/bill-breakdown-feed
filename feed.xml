@@ -17,6 +17,19 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://venugec.github.io/bill-breakdown-feed/covers/show-logo.jpg"/>
     <item>
+      <title>Bill Breakdown: The Romance Scam Prevention Act</title>
+      <description>Alex and Jordan explain the Romance Scam Prevention Act, which requires online dating services to warn members who received messages from an account later banned for fraud, what those warnings must say, and why they are not required until October 20, 2027.
+
+Sources: Bill page (CRS summary): https://www.congress.gov/bill/119th-congress/house-bill/2481/all-info | Full law text (P.L. 119-129): https://www.congress.gov/119/plaws/publ129/PLAW-119publ129.pdf</description>
+      <pubDate>Thu, 05 Nov 2026 03:52:05 +0000</pubDate>
+      <guid isPermaLink="true">https://muse.ai/podcasts/media/1220496047823149/a616bd34-6bf1-4a5f-badc-0a0a848862b9/ep-362aebd2-b1a1-4cf9-8f80-7a6e834e1b08.mp3</guid>
+      <enclosure url="https://muse.ai/podcasts/media/1220496047823149/a616bd34-6bf1-4a5f-badc-0a0a848862b9/ep-362aebd2-b1a1-4cf9-8f80-7a6e834e1b08.mp3" length="3052069" type="audio/mpeg"/>
+      <itunes:duration>381</itunes:duration>
+      <itunes:image href="https://venugec.github.io/bill-breakdown-feed/covers/romance.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>Bill Breakdown: The TAKE IT DOWN Act</title>
       <description>Alex and Jordan explain the TAKE IT DOWN Act, which makes publishing nonconsensual intimate images and digital forgeries a federal crime and requires covered platforms to remove reported images within forty-eight hours.
 
