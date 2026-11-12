@@ -17,6 +17,19 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://venugec.github.io/bill-breakdown-feed/covers/show-logo.jpg"/>
     <item>
+      <title>Bill Breakdown: The HALT Fentanyl Act</title>
+      <description>Alex and Jordan explain the HALT Fentanyl Act (P.L. 119-26), which permanently places fentanyl-related substances as a class in Schedule I, aligns their mandatory minimums with the fentanyl-analogue thresholds, and streamlines Schedule I research registration. Fentanyl itself remains Schedule II.
+
+Sources: Bill page (CRS summary): https://www.congress.gov/bill/119th-congress/senate-bill/331/all-info | Full law text (P.L. 119-26): https://www.congress.gov/119/plaws/publ26/PLAW-119publ26.pdf</description>
+      <pubDate>Thu, 12 Nov 2026 02:14:02 +0000</pubDate>
+      <guid isPermaLink="true">https://muse.ai/podcasts/media/1220496047823149/a616bd34-6bf1-4a5f-badc-0a0a848862b9/ep-017b9548-dd4b-4680-9af0-47ee6a68537d.mp3</guid>
+      <enclosure url="https://muse.ai/podcasts/media/1220496047823149/a616bd34-6bf1-4a5f-badc-0a0a848862b9/ep-017b9548-dd4b-4680-9af0-47ee6a68537d.mp3" length="3799141" type="audio/mpeg"/>
+      <itunes:duration>474</itunes:duration>
+      <itunes:image href="https://venugec.github.io/bill-breakdown-feed/covers/halt.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>Bill Breakdown: The License to Drill Act</title>
       <description>Alex and Jordan explain the License to Drill Act (P.L. 119-134), a one-page law that extends the Bureau of Land Management's drilling permit application fee through 2037 and keeps the money flowing to the fund that pays the staff who process the permits: what the fee is, where the money goes, why the authority almost expired, and what the law does not change.
 
