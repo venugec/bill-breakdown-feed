@@ -17,6 +17,19 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://venugec.github.io/bill-breakdown-feed/covers/show-logo.jpg"/>
     <item>
+      <title>Bill Breakdown: The Laken Riley Act</title>
+      <description>Alex and Jordan explain the Laken Riley Act (P.L. 119-1): mandatory detention for noncitizens charged with theft and other listed offenses, and state attorneys general standing to sue over immigration enforcement, verified against the CRS summary and the enrolled bill text.
+
+Sources: Bill page (CRS summary): https://www.congress.gov/bill/119th-congress/senate-bill/5/all-info | Full law text (P.L. 119-1): https://www.congress.gov/119/plaws/publ1/PLAW-119publ1.pdf</description>
+      <pubDate>Mon, 16 Nov 2026 14:21:04 +0000</pubDate>
+      <guid isPermaLink="true">https://muse.ai/podcasts/media/1220496047823149/a616bd34-6bf1-4a5f-badc-0a0a848862b9/ep-c5e833e8-b550-49dc-a5f8-997bba05741b.mp3</guid>
+      <enclosure url="https://muse.ai/podcasts/media/1220496047823149/a616bd34-6bf1-4a5f-badc-0a0a848862b9/ep-c5e833e8-b550-49dc-a5f8-997bba05741b.mp3" length="4077157" type="audio/mpeg"/>
+      <itunes:duration>510</itunes:duration>
+      <itunes:image href="https://venugec.github.io/bill-breakdown-feed/covers/laken.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>Bill Breakdown: The HALT Fentanyl Act</title>
       <description>Alex and Jordan explain the HALT Fentanyl Act (P.L. 119-26), which permanently places fentanyl-related substances as a class in Schedule I, aligns their mandatory minimums with the fentanyl-analogue thresholds, and streamlines Schedule I research registration. Fentanyl itself remains Schedule II.
 
