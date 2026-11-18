@@ -17,6 +17,19 @@
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://venugec.github.io/bill-breakdown-feed/covers/show-logo.jpg"/>
     <item>
+      <title>Bill Breakdown: The Mystic Alerts Act</title>
+      <description>Alex and Jordan explain the Mystic Alerts Act (P.L. 119-136, enacted as H.R. 7022, signed October 22, 2026), which sets up a voluntary election system for phone carriers that already offer satellite service to carry emergency alerts by satellite to phones outside cell coverage; carriers file an election with the FCC within 60 days after the final rule's effective date; the FCC must propose rules within 6 months and issue a final rule within 18 months; subscribers pay no extra fee, opt-outs are honored, and carriers following the rules are shielded from liability. The act requires no carrier to send an alert by satellite, builds no satellites, and appropriates no funding. Named for Camp Mystic, where 25 campers and 2 counselors died in the July 4, 2025 Guadalupe River flood.
+
+Sources: Bill page (CRS summary): https://www.congress.gov/bill/119th-congress/house-bill/7022/all-info | Full law text (P.L. 119-136): https://www.congress.gov/119/plaws/publ136/PLAW-119publ136.pdf</description>
+      <pubDate>Wed, 18 Nov 2026 14:30:56 +0000</pubDate>
+      <guid isPermaLink="true">https://muse.ai/podcasts/media/1220496047823149/a616bd34-6bf1-4a5f-badc-0a0a848862b9/ep-84bd3cd1-d62c-419f-a5b4-064829da7b47.mp3</guid>
+      <enclosure url="https://muse.ai/podcasts/media/1220496047823149/a616bd34-6bf1-4a5f-badc-0a0a848862b9/ep-84bd3cd1-d62c-419f-a5b4-064829da7b47.mp3" length="4382629" type="audio/mpeg"/>
+      <itunes:duration>547</itunes:duration>
+      <itunes:image href="https://venugec.github.io/bill-breakdown-feed/covers/mystic.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>Bill Breakdown: The Laken Riley Act</title>
       <description>Alex and Jordan explain the Laken Riley Act (P.L. 119-1): mandatory detention for noncitizens charged with theft and other listed offenses, and state attorneys general standing to sue over immigration enforcement, verified against the CRS summary and the enrolled bill text.
 
